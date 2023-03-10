@@ -3,8 +3,8 @@ import { v4 as uuidv4 } from 'uuid'
 const data = [
   {
     id: uuidv4(),
-    title: 'Safe Haven',
-    links: ['Why SafeHaven', 'For Sale', 'For Rent'],
+    title: 'Estate Broker',
+    links: ['Why Estate Broker', 'For Sale', 'For Rent'],
   },
   {
     id: uuidv4(),
